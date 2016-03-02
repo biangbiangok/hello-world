@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_send">send</string>
+    <string name="edit_text">please enter text</string>
+</resources>
